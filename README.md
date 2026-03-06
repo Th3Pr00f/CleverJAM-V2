@@ -2,10 +2,7 @@
 
 > **Smart SDR Jammer with Frequency Hopping — Enhanced Edition**
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://python.org)
-[![GNURadio](https://img.shields.io/badge/GNURadio-3.8%20%7C%203.10-green?logo=gnu)](https://www.gnuradio.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Fork of](https://img.shields.io/badge/Fork%20of-jhonnybonny%2FCleverJAM-red)](https://github.com/jhonnybonny/CleverJAM)
+![CleverJAM-V2]([https://user-images.githubusercontent.com/XXXXX/image.png](https://github.com/Th3Pr00f/CleverJAM-V2/blob/main/screenshot.png))
 
 ---
 
