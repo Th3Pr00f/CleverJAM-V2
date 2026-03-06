@@ -2,6 +2,7 @@
 
 > **Smart SDR Jammer with Frequency Hopping — Enhanced Edition**
 
+![CleverJAM-V2](https://raw.githubusercontent.com/Th3Pr00f/CleverJAM-V2/main/screenshot%202.png)
 ![CleverJAM-V2](https://raw.githubusercontent.com/Th3Pr00f/CleverJAM-V2/main/screenshot.png)
 
 ---
