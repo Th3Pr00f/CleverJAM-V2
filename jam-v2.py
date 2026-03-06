@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# CleverJAM - Modified by Medhat
+# CleverJAM-v2 - Modified by Th3Pr00f
 # ✅ Matches original GUI: all 6 sliders + FFT + Max/Min Hold + Average
 # ✅ Device Selection Dialog at startup
 # ✅ Integrated Auto-Jam panel (clever.py logic built-in)
@@ -85,7 +85,7 @@ class DeviceSelectDialog(QtWidgets.QDialog):
         self._build_ui()
 
     def _build_ui(self):
-        self.setWindowTitle("CleverJAM — Select SDR Device")
+        self.setWindowTitle("CleverJAM-v2 — Select SDR Device")
         self.setMinimumWidth(540)
         self.setStyleSheet("""
             QDialog        { background:#1a1a2e; color:#eaeaea; font-family:'Courier New',monospace; }
@@ -616,7 +616,7 @@ def main():
     app = Qt.QApplication(sys.argv)
     app.setStyle("Fusion")
 
-    print("🐇 CleverJAM — Detecting SDR devices...")
+    print("🐇 CleverJAM-v2 — Detecting SDR devices...")
     devices = detect_devices()
 
     if not devices:
