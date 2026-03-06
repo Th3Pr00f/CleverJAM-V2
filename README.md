@@ -53,7 +53,7 @@ CleverJAM-V2 is an enhanced fork of [jhonnybonny/CleverJAM](https://github.com/j
 
 ```bash
 # Clone this repo
-git clone https://github.com/YOUR_USERNAME/CleverJAM-V2.git
+git clone https://github.com/Th3Pr00f/CleverJAM-V2.git
 cd CleverJAM-V2
 
 # Install GNURadio dependencies (Debian/Ubuntu)
