@@ -72,7 +72,7 @@ hackrf_info
 Launch the tool:
 
 ```bash
-python3 jam.py
+python3 jam-v2.py
 ```
 
 A **device selection dialog** appears automatically. It scans for connected SDR hardware and lists all available options with their firmware version and serial number.
@@ -154,7 +154,7 @@ The `-d` argument sets the jump delay in seconds. Run `python3 clever.py -h` for
 
 ```
 CleverJAM-V2/
-├── jam.py          ← Main GUI (enhanced — this is what you run)
+├── jam-v2.py          ← Main GUI (enhanced — this is what you run)
 ├── clever.py       ← Original CLI auto-jammer (still works)
 ├── jam.json        ← Frequency target list (editable in GUI or manually)
 ├── sources/
